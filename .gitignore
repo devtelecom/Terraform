@@ -1,0 +1,5 @@
+terraform-provider-azurerm_v4.1.0_x5.exe
+.terraform.lock.hcl
+LICENSE.txt
+terraform.tfstate
+terraform.tfstate.backup
